@@ -9,8 +9,8 @@
 
 === → compares both value and type.
 
-// 5 == "5"   // true
-// 5 === "5"  // false
+5 == "5"   // true
+5 === "5"  // false
 
 3. What is the difference between null and undefined?
 
